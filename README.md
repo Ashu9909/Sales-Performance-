@@ -15,3 +15,5 @@ KPI Overview: Summarizes the total number of customers, total sales per customer
 Customer Trends: Monthly breakdown of KPIs for both years, highlighting the highest and lowest sales months.<br/> 
 Customer Distribution: Insights into customer behavior, loyalty, and engagement based on the number of orders placed.<br/> 
 Top 10 Customers By Profit: Showcases top customers generating the highest profits, including rank, number of orders, current sales, current profit, and the last order date.<br/> 
+
+##### https://public.tableau.com/app/profile/ashutosh.dhuriya/viz/SaleData_17205035129940/Salesdashboard
